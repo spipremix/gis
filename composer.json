@@ -1,0 +1,25 @@
+{
+    "name": "spipremix/gis",
+    "homepage": "https://contrib.spip.net/4189",
+    "description": "Gestion des pages sans rubrique",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Bruno Bergot",
+            "email": "bruno@eliaz.fr"
+        },
+        {
+            "name": "kent1",
+            "email": "kent1@arscenic.info",
+            "homepage": "http://www.kent1.info"
+        },
+        {
+            "homepage": "http://www.ldd.fr",
+            "name": "Les Développements Durables"
+        }
+    ],
+    "require": {
+        "spipremix/saisies": "^2.25"
+    }
+}

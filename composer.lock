@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6c4a0b901dc24757e4c2c6e7fe088ccc",
+    "packages": [
+        {
+            "name": "spipremix/saisies",
+            "version": "2.25.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spipremix/saisies.git",
+                "reference": "c0c83f33bbc5dc5dfe1e8d4112cd9768f3ea31e7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spipremix/saisies/zipball/c0c83f33bbc5dc5dfe1e8d4112cd9768f3ea31e7",
+                "reference": "c0c83f33bbc5dc5dfe1e8d4112cd9768f3ea31e7",
+                "shasum": ""
+            },
+            "type": "spip-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Matthieu Marcillaud",
+                    "email": "marcimat@rezo.net"
+                },
+                {
+                    "name": "RastaPopoulos",
+                    "email": "rastapopoulos@spip.org"
+                },
+                {
+                    "name": "Joseph Larmarange",
+                    "email": "joseph@larmarange.net"
+                }
+            ],
+            "description": "Générer et manipuler plus facilement les champs des formulaires",
+            "homepage": "https://contrib.spip.net/Saisies",
+            "time": "2018-06-10T12:44:34+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
